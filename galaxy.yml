@@ -29,7 +29,7 @@ tags:
 - collection
 - inventory
 - plugin
-repository: https://github.com/hugotomasi/servicenow-ansible
+repository: https://github.com/hugotomasi/servicenow-ansible.git
 documentation: https://github.com/hugotomasi/servicenow-ansible/wiki
-homepage: https://github.com/hugotomasi/servicenow-ansible
+homepage: https://github.com/hugotomasi/servicenow-ansible/
 issues: https://github.com/hugotomasi/servicenow-ansible/issues
