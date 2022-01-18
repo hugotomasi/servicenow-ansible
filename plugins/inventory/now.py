@@ -292,7 +292,7 @@ class InventoryModule(BaseInventoryPlugin, Constructable, Cacheable):
             for k in selection:
                 if k in record:
                     if record[k] != '':
-                        target = record[k]
+                        target = record[k].lower()
                 if target is not None:
                     break
 
